@@ -48,7 +48,5 @@ seo:
       value: lorem-ipsum
     - name: lorem-ipsum
       value: lorem-ipsum
-    - name: lorem-ipsum
-      value: lorem-ipsum
   type: stackbit_page_meta
 ---
