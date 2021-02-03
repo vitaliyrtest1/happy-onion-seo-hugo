@@ -115,5 +115,7 @@ seo:
       value: Stackbit Azimuth Theme!!!
     - name: 'og:description'
       value: The preview of the Azimuth theme
+    - name: lorem-ipsum
+      value: lorem-ipsum
 layout: landing
 ---
