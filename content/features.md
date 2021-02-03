@@ -43,6 +43,8 @@ seo:
   description: lorem-ipsum
   canonical_url: lorem-ipsum
   robots: []
-  extra: []
+  extra:
+    - name: lorem-ipsum
+      value: lorem-ipsum
   type: stackbit_page_meta
 ---
