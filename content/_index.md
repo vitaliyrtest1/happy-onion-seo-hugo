@@ -117,5 +117,7 @@ seo:
       value: The preview of the Azimuth theme
     - name: lorem-ipsum
       value: lorem-ipsum
+    - name: lorem-ipsum
+      value: lorem-ipsum
 layout: landing
 ---
