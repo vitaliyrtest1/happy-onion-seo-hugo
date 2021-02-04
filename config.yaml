@@ -92,7 +92,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
-  domain: 'https://happy-onion-seo-hugo-94641.netlify.apas'
+  domain: 'https://happy-onion-seo-hugo-94641.netlify.apas1'
 taxonomies:
   stub: stub
 disableKinds:
