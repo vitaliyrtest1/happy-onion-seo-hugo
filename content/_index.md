@@ -119,6 +119,6 @@ seo:
 
 
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme123412321312vitaliy
+      value: 'Stackbit Azimuth Theme123412321312vitaliyt est '
 layout: landing
 ---
