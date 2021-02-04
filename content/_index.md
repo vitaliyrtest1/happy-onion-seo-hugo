@@ -116,7 +116,8 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme1
     - name: 'twitter:description'
-      value: |
-        The preview of the Azimuth theme
+      value: |+
+        The preview of the Azimuth theme!!
+
 layout: landing
 ---
