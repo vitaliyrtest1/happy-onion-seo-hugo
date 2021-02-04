@@ -118,7 +118,5 @@ seo:
         The preview of the Azimuth theme!!!!
 
 
-    - name: 'twitter:title'
-      value: 'Stackbit Azimuth Theme123412321312vitaliyt est '
 layout: landing
 ---
