@@ -115,7 +115,7 @@ seo:
       value: Stackbit Azimuth Theme!!!
     - name: 'twitter:description'
       value: |+
-        The preview of the Azimuth theme!!!!
+        The preview of the Azimuth theme!!!!asdsda
 
 
     - name: 'twitter:title'
