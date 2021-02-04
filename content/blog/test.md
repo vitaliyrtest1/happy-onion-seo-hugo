@@ -7,7 +7,8 @@ image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
   title: Title
-  description: lorem-ipsum
+  description: |
+    Descriprtion
   canonical_url: lorem-ipsum
   robots: []
   extra: []
