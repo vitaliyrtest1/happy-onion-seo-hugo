@@ -101,7 +101,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Latest Posts1
 seo:
   title: Stackbit Azimuth Theme12
   description: The preview of the Azimuth theme
