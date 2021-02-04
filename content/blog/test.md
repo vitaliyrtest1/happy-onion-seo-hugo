@@ -11,7 +11,9 @@ seo:
     Descriprtion
   canonical_url: lorem-ipsum
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Title 21
   type: stackbit_page_meta
 layout: post
 ---
