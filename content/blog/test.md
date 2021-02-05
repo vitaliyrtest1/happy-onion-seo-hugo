@@ -14,6 +14,8 @@ seo:
   extra:
     - name: 'twitter:title'
       value: Title twitter
+    - name: 'og:title'
+      value: Title9
   type: stackbit_page_meta
 layout: post
 ---
