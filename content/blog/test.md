@@ -16,6 +16,8 @@ seo:
       value: Title twitter
     - name: 'og:title'
       value: 5Title124
+    - name: 'og:image'
+      value: /images/10.jpg
   type: stackbit_page_meta
 layout: post
 image: images/10.jpg
