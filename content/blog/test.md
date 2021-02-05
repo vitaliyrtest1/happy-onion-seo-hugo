@@ -15,7 +15,7 @@ seo:
     - name: 'twitter:title'
       value: Title twitter
     - name: 'og:title'
-      value: Title12
+      value: Title123
   type: stackbit_page_meta
 layout: post
 ---
