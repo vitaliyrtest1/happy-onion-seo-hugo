@@ -14,8 +14,6 @@ seo:
   extra:
     - name: 'twitter:title'
       value: Title twitter
-    - name: lorem-ipsum
-      value: lorem-ipsum
   type: stackbit_page_meta
 layout: post
 ---
