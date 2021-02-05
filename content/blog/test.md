@@ -6,7 +6,7 @@ excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 seo:
-  title: Title1
+  title: Title12
   description: |
     Descriprtion
   canonical_url: lorem-ipsum
