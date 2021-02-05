@@ -18,6 +18,7 @@ seo:
       value: 5Title124
   type: stackbit_page_meta
 layout: post
+image: images/10.jpg
 ---
 ## Lorem ipsum
 
